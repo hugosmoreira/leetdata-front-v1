@@ -1,5 +1,5 @@
 import React from 'react';
-import gpt3Logo from '../../logo.svg';
+import gpt3Logo from '../../assets/logo03.png';
 import './footer.css';
 
 const Footer = () => (
@@ -34,12 +34,12 @@ const Footer = () => (
         <h4>Get in touch</h4>
         <p>Crechterwoord K12 182 DK Alknjkcb</p>
         <p>085-132567</p>
-        <p>info@payme.net</p>
+        <p>info@LeetData.co</p>
       </div>
     </div>
 
     <div className="gpt3__footer-copyright">
-      <p>@2021 GPT-3. All rights reserved.</p>
+      <p>@2021 LeetData. All rights reserved.</p>
     </div>
   </div>
 );
