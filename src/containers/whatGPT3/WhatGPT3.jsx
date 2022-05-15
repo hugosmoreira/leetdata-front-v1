@@ -8,7 +8,7 @@ const WhatGPT3 = () => (
       <Feature title="What is LeetData" text="We are in private beta, and delighted to serve the best data and product teams on the market." />
     </div>
     <div className="gpt3__whatgpt3-heading">
-      <h1 className="gradient__text">The possibilities are beyond your imagination</h1>
+      <h1 className="gradient__text">The for digital companies are incredible profitable</h1>
       <p>Explore the Library</p>
     </div>
     <div className="gpt3__whatgpt3-container">
